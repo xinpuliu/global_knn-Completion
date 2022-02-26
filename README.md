@@ -5,7 +5,7 @@ Code of "Point cloud completion by dynamic transformer with adaptive neighbourho
 
 The remaining codes will be sorted out and uploaded soon...
 
-# Thanks to
+## Thanks to
 PCN implementation refers to https://github.com/paul007pl/VRCNet.
 
 Utils (FPS, CD) borrowed from https://github.com/AllenXiangX/SnowflakeNet.
